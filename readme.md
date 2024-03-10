@@ -1,3 +1,17 @@
+# https://tea.xyz/what-is-this-file
+---
+version: 1.0.0
+codeOwners:
+  - '0x1BbbEAAD164AB276412F6130dabcb7Ee7168928e'
+  - '0x83A55c5E6E0ffCE51341b960cc1759Fd1541dC60'
+  - '0xd381f3E8208b7b04666C1DFBAC7e95A0325CAB1B'
+  - '0x8B0b4B0Fb7e3401761b8735D21a8957350371B68'
+  - '0x5092a49e566CB2CB66b7A395eA581B103923cE2E'
+  - '0xf76dcCB4Accc9313119998BAd180A584af492b91'
+  - '0x21d12353F4430123e40C97175A395193af91769A'
+  - '0x5C0eFa4Cb8c4aF62338F55fCD333D9F2158C37A3'
+quorum: 1
+
 ## Deskripsi Aplikasi 
 Source Code Aplikasi Penjualan Barang sederhana berbasis Website dengan PHP & MYSQL.
 
